@@ -1,0 +1,9 @@
+{
+  "name": "@developer.ui/ui-library",
+  "version": "0.0.2",
+  "sideEffects": false,
+  "style": "dist/ui-library/scss/main.scss",
+  "publishConfig": {
+    "access": "public"
+  }
+}
